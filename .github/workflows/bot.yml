@@ -2,8 +2,8 @@ name: Bot DataRedonda Network Sniffer
 
 on:
   schedule:
-    # Se ejecuta todos los días a las 11:00 UTC (8:00 AM hora de Argentina)
-    - cron: '0 10 * * *'
+    # Se ejecuta a las 10:13 UTC (7:13 AM hora de Argentina) para evitar la fila de espera de GitHub
+    - cron: '0 11 * * *'
   workflow_dispatch: # Permite que también lo puedas ejecutar manualmente cuando quieras
 
 jobs:
