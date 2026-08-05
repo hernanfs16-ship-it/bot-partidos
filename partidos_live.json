@@ -1,7 +1,7 @@
 [
   {
     "id": "5470059",
-    "time": "00:15",
+    "time": "21:15",
     "startTime": "2026-08-06T00:15:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -27,7 +27,7 @@
   },
   {
     "id": "5470064",
-    "time": "22:00",
+    "time": "19:00",
     "startTime": "2026-08-05T22:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -53,9 +53,9 @@
   },
   {
     "id": "5470345",
-    "time": "18:00",
+    "time": "ET",
     "startTime": "2026-08-05T18:00:00+00:00",
-    "status": "upcoming",
+    "status": "live",
     "homeTeam": {
       "name": "Almagro",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/14572.png?v=2025-09-22-5"
@@ -64,13 +64,25 @@
       "name": "Gimnasia y Tiro de Salta",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/8378.png?v=2025-10-01-3"
     },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
     "league": {
       "id": "13",
       "name": "Primera B Nacional",
       "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
       "href": "/torneos/645"
     },
-    "goalscorers": [],
+    "goalscorers": [
+      {
+        "name": "Lautaro Gordillo",
+        "team": "away",
+        "minute": 34,
+        "isPenalty": false,
+        "isOwnGoal": false
+      }
+    ],
     "redCards": {
       "home": 0,
       "away": 0
@@ -79,7 +91,7 @@
   },
   {
     "id": "5470348",
-    "time": "23:00",
+    "time": "20:00",
     "startTime": "2026-08-05T23:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -105,7 +117,7 @@
   },
   {
     "id": "10227205",
-    "time": "02:00",
+    "time": "23:00",
     "startTime": "2026-08-06T02:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -131,7 +143,7 @@
   },
   {
     "id": "10227206",
-    "time": "02:30",
+    "time": "23:30",
     "startTime": "2026-08-06T02:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -157,7 +169,7 @@
   },
   {
     "id": "10227207",
-    "time": "00:30",
+    "time": "21:30",
     "startTime": "2026-08-06T00:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -183,7 +195,7 @@
   },
   {
     "id": "10227208",
-    "time": "00:30",
+    "time": "21:30",
     "startTime": "2026-08-06T00:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -209,7 +221,7 @@
   },
   {
     "id": "10227209",
-    "time": "23:30",
+    "time": "20:30",
     "startTime": "2026-08-05T23:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -235,7 +247,7 @@
   },
   {
     "id": "10227210",
-    "time": "23:30",
+    "time": "20:30",
     "startTime": "2026-08-05T23:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -261,7 +273,7 @@
   },
   {
     "id": "16548617",
-    "time": "00:30",
+    "time": "21:30",
     "startTime": "2026-08-06T00:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -287,7 +299,7 @@
   },
   {
     "id": "16548618",
-    "time": "22:00",
+    "time": "19:00",
     "startTime": "2026-08-05T22:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -313,7 +325,7 @@
   },
   {
     "id": "16548622",
-    "time": "22:30",
+    "time": "19:30",
     "startTime": "2026-08-05T22:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -339,7 +351,7 @@
   },
   {
     "id": "16548624",
-    "time": "00:30",
+    "time": "21:30",
     "startTime": "2026-08-06T00:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -365,7 +377,7 @@
   },
   {
     "id": "19727708",
-    "time": "00:00",
+    "time": "21:00",
     "startTime": "2026-08-06T00:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -391,9 +403,9 @@
   },
   {
     "id": "20178062",
-    "time": "18:15",
+    "time": "41'",
     "startTime": "2026-08-05T18:15:00+00:00",
-    "status": "upcoming",
+    "status": "live",
     "homeTeam": {
       "name": "Ferencvárosi",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/112.png"
@@ -401,6 +413,10 @@
     "awayTeam": {
       "name": "Górnik Zabrze",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/3781.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
     },
     "league": {
       "id": "2",
@@ -413,13 +429,14 @@
       "home": 0,
       "away": 0
     },
+    "aggregate": "0-0",
     "tvBroadcasters": null
   },
   {
     "id": "20471683",
-    "time": "16:30",
-    "startTime": "2026-08-05T16:30:00+00:00",
-    "status": "upcoming",
+    "time": "86'",
+    "startTime": "2026-08-05T17:10:00+00:00",
+    "status": "live",
     "homeTeam": {
       "name": "AGF",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/2905.png"
@@ -428,24 +445,51 @@
       "name": "Sabah",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/138649.png"
     },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
     "league": {
       "id": "1",
       "name": "Champions League",
       "icon": "https://cdn.sportmonks.com/images/soccer/leagues/2.png",
       "href": "/torneos/2"
     },
-    "goalscorers": [],
+    "goalscorers": [
+      {
+        "name": "James Bogere",
+        "team": "home",
+        "minute": 31,
+        "isPenalty": false,
+        "isOwnGoal": false
+      },
+      {
+        "name": "James Bogere",
+        "team": "home",
+        "minute": 63,
+        "isPenalty": false,
+        "isOwnGoal": false
+      },
+      {
+        "name": "Veljko Simic",
+        "team": "away",
+        "minute": 66,
+        "isPenalty": false,
+        "isOwnGoal": false
+      }
+    ],
     "redCards": {
       "home": 0,
       "away": 0
     },
+    "aggregate": "2-1",
     "tvBroadcasters": null
   },
   {
     "id": "20471685",
-    "time": "18:00",
+    "time": "ET",
     "startTime": "2026-08-05T18:00:00+00:00",
-    "status": "upcoming",
+    "status": "live",
     "homeTeam": {
       "name": "Fenerbahçe",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/88.png"
@@ -454,17 +498,37 @@
       "name": "Sturm Graz",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/29/3357.png"
     },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
     "league": {
       "id": "1",
       "name": "Champions League",
       "icon": "https://cdn.sportmonks.com/images/soccer/leagues/2.png",
       "href": "/torneos/2"
     },
-    "goalscorers": [],
+    "goalscorers": [
+      {
+        "name": "Talisca",
+        "team": "home",
+        "minute": 9,
+        "isPenalty": false,
+        "isOwnGoal": false
+      },
+      {
+        "name": "Mason Greenwood",
+        "team": "home",
+        "minute": 45,
+        "isPenalty": false,
+        "isOwnGoal": false
+      }
+    ],
     "redCards": {
       "home": 0,
       "away": 0
     },
+    "aggregate": "2-0",
     "tvBroadcasters": null
   }
 ]
