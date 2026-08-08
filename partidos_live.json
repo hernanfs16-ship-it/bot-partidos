@@ -1,7 +1,7 @@
 [
   {
     "id": "4668368",
-    "time": "20:30",
+    "time": "17:30",
     "startTime": "2026-08-08T20:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -27,7 +27,7 @@
   },
   {
     "id": "4800856",
-    "time": "21:30",
+    "time": "18:30",
     "startTime": "2026-08-08T21:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -53,7 +53,7 @@
   },
   {
     "id": "4800858",
-    "time": "19:00",
+    "time": "16:00",
     "startTime": "2026-08-08T19:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -79,7 +79,7 @@
   },
   {
     "id": "4800863",
-    "time": "00:00",
+    "time": "21:00",
     "startTime": "2026-08-09T00:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -105,7 +105,7 @@
   },
   {
     "id": "4807806",
-    "time": "23:30",
+    "time": "20:30",
     "startTime": "2026-08-08T23:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -131,7 +131,7 @@
   },
   {
     "id": "5470028",
-    "time": "20:00",
+    "time": "17:00",
     "startTime": "2026-08-08T20:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -157,7 +157,7 @@
   },
   {
     "id": "5470032",
-    "time": "17:45",
+    "time": "14:45",
     "startTime": "2026-08-08T17:45:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -183,7 +183,7 @@
   },
   {
     "id": "5470033",
-    "time": "17:45",
+    "time": "14:45",
     "startTime": "2026-08-08T17:45:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -209,7 +209,7 @@
   },
   {
     "id": "5470035",
-    "time": "22:15",
+    "time": "19:15",
     "startTime": "2026-08-08T22:15:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -235,7 +235,7 @@
   },
   {
     "id": "5470036",
-    "time": "00:30",
+    "time": "21:30",
     "startTime": "2026-08-09T00:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -261,7 +261,7 @@
   },
   {
     "id": "5470038",
-    "time": "00:30",
+    "time": "21:30",
     "startTime": "2026-08-09T00:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -287,7 +287,7 @@
   },
   {
     "id": "5470296",
-    "time": "18:00",
+    "time": "15:00",
     "startTime": "2026-08-08T18:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -313,7 +313,7 @@
   },
   {
     "id": "5470298",
-    "time": "18:00",
+    "time": "15:00",
     "startTime": "2026-08-08T18:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -339,7 +339,7 @@
   },
   {
     "id": "5470300",
-    "time": "18:00",
+    "time": "15:00",
     "startTime": "2026-08-08T18:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -365,7 +365,7 @@
   },
   {
     "id": "5470815",
-    "time": "18:00",
+    "time": "15:00",
     "startTime": "2026-08-08T18:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -391,7 +391,7 @@
   },
   {
     "id": "5470817",
-    "time": "18:00",
+    "time": "15:00",
     "startTime": "2026-08-08T18:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -417,7 +417,7 @@
   },
   {
     "id": "5470818",
-    "time": "18:30",
+    "time": "15:30",
     "startTime": "2026-08-08T18:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -443,7 +443,7 @@
   },
   {
     "id": "5470819",
-    "time": "18:00",
+    "time": "15:00",
     "startTime": "2026-08-08T18:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -469,7 +469,7 @@
   },
   {
     "id": "5470820",
-    "time": "18:00",
+    "time": "15:00",
     "startTime": "2026-08-08T18:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -495,7 +495,7 @@
   },
   {
     "id": "5470821",
-    "time": "18:00",
+    "time": "15:00",
     "startTime": "2026-08-08T18:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -521,7 +521,7 @@
   },
   {
     "id": "5470824",
-    "time": "22:00",
+    "time": "19:00",
     "startTime": "2026-08-08T22:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -547,7 +547,7 @@
   },
   {
     "id": "5484468",
-    "time": "19:00",
+    "time": "16:00",
     "startTime": "2026-08-08T19:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -573,7 +573,7 @@
   },
   {
     "id": "10227191",
-    "time": "02:00",
+    "time": "23:00",
     "startTime": "2026-08-09T02:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -599,7 +599,7 @@
   },
   {
     "id": "10227192",
-    "time": "01:00",
+    "time": "22:00",
     "startTime": "2026-08-09T01:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -625,7 +625,7 @@
   },
   {
     "id": "10227193",
-    "time": "00:00",
+    "time": "21:00",
     "startTime": "2026-08-09T00:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -651,7 +651,7 @@
   },
   {
     "id": "10227194",
-    "time": "22:30",
+    "time": "19:30",
     "startTime": "2026-08-08T22:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -677,7 +677,7 @@
   },
   {
     "id": "18389918",
-    "time": "18:00",
+    "time": "15:00",
     "startTime": "2026-08-08T18:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -703,7 +703,7 @@
   },
   {
     "id": "18554128",
-    "time": "18:30",
+    "time": "15:30",
     "startTime": "2026-08-08T18:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -729,7 +729,7 @@
   },
   {
     "id": "18908968",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -755,7 +755,7 @@
   },
   {
     "id": "18908969",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -781,7 +781,7 @@
   },
   {
     "id": "18908975",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -807,7 +807,7 @@
   },
   {
     "id": "18908976",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -833,7 +833,7 @@
   },
   {
     "id": "18908982",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -859,7 +859,7 @@
   },
   {
     "id": "18908987",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -885,7 +885,7 @@
   },
   {
     "id": "18908988",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -911,7 +911,7 @@
   },
   {
     "id": "18908989",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -937,7 +937,7 @@
   },
   {
     "id": "18908990",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -963,7 +963,7 @@
   },
   {
     "id": "18908991",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -989,7 +989,7 @@
   },
   {
     "id": "18908992",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -1015,7 +1015,7 @@
   },
   {
     "id": "18908993",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -1041,7 +1041,7 @@
   },
   {
     "id": "18908994",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -1067,7 +1067,7 @@
   },
   {
     "id": "18908995",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -1093,7 +1093,7 @@
   },
   {
     "id": "18908996",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -1119,7 +1119,7 @@
   },
   {
     "id": "18908998",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -1145,7 +1145,7 @@
   },
   {
     "id": "18908999",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -1171,7 +1171,7 @@
   },
   {
     "id": "18909000",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -1197,7 +1197,7 @@
   },
   {
     "id": "18909002",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -1223,7 +1223,7 @@
   },
   {
     "id": "18909003",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -1249,7 +1249,7 @@
   },
   {
     "id": "18909004",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
@@ -1275,7 +1275,7 @@
   },
   {
     "id": "18909005",
-    "time": "14:00",
+    "time": "11:00",
     "startTime": "2026-08-08T14:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
