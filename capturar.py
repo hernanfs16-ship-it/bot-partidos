@@ -5,12 +5,15 @@ from playwright.sync_api import sync_playwright
 def capturar_partidos_live():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
+        
+        # Agregamos timezone_id para forzar el horario de Argentina
         context = browser.new_context(
             user_agent=(
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
                 " (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
             ),
             viewport={"width": 1280, "height": 720},
+            timezone_id="America/Argentina/Buenos_Aires"
         )
         page = context.new_page()
 
