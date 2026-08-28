@@ -1,22 +1,22 @@
 [
   {
-    "id": "16891688",
-    "time": "21:15",
-    "startTime": "2026-08-28T00:15:00+00:00",
+    "id": "5469991",
+    "time": "21:30",
+    "startTime": "2026-08-29T00:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Platense",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/9896.png?v=2025-09-22-1"
+      "name": "Boca Juniors",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/587.png"
     },
     "awayTeam": {
-      "name": "Instituto",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/9941.png?v=2025-09-22-4"
+      "name": "Lanús",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/9878.png"
     },
     "league": {
-      "id": "12",
-      "name": "Copa Argentina",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/2/642.png?v=12082025",
-      "href": "/torneos/642"
+      "id": "11",
+      "name": "Liga Profesional de Fútbol",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/28/636.png?v=19022026",
+      "href": "/torneos/636"
     },
     "goalscorers": [],
     "redCards": {
@@ -26,23 +26,23 @@
     "tvBroadcasters": null
   },
   {
-    "id": "17096602",
+    "id": "5469995",
     "time": "19:00",
-    "startTime": "2026-08-27T22:00:00+00:00",
+    "startTime": "2026-08-28T22:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Estudiantes",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/9335.png?v=2025-10-15-7"
+      "name": "Unión Santa Fe",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/7228.png?v=2026-04-16"
     },
     "awayTeam": {
-      "name": "Barracas Central",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/8228.png"
+      "name": "Sarmiento",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/9931.png?v=2025-11-09-1"
     },
     "league": {
-      "id": "12",
-      "name": "Copa Argentina",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/2/642.png?v=12082025",
-      "href": "/torneos/642"
+      "id": "11",
+      "name": "Liga Profesional de Fútbol",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/28/636.png?v=19022026",
+      "href": "/torneos/636"
     },
     "goalscorers": [],
     "redCards": {
@@ -52,21 +52,47 @@
     "tvBroadcasters": null
   },
   {
-    "id": "18610148",
-    "time": "84'",
-    "startTime": "2026-08-27T19:00:00+00:00",
+    "id": "5470253",
+    "time": "22:00",
+    "startTime": "2026-08-29T01:00:00+00:00",
+    "status": "upcoming",
+    "homeTeam": {
+      "name": "Gimnasia y Tiro de Salta",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/8378.png?v=2025-10-01-3"
+    },
+    "awayTeam": {
+      "name": "Club Atlético Chacarita Juniors",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/10980.png?v=2025-11-25-21"
+    },
+    "league": {
+      "id": "13",
+      "name": "Primera B Nacional",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
+      "href": "/torneos/645"
+    },
+    "goalscorers": [],
+    "redCards": {
+      "home": 0,
+      "away": 0
+    },
+    "tvBroadcasters": null
+  },
+  {
+    "id": "18610133",
+    "time": "91'",
+    "startTime": "2026-08-28T19:30:00+00:00",
     "status": "live",
     "homeTeam": {
-      "name": "FC Barcelona",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/83.png"
+      "name": "Deportivo Alavés",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/2975.png"
     },
     "awayTeam": {
-      "name": "Athletic Club",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/13258.png"
+      "name": "Villarreal",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/3477.png"
     },
     "score": {
-      "home": 2,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "league": {
       "id": "9",
@@ -76,46 +102,13 @@
     },
     "goalscorers": [
       {
-        "name": "Raphinha",
+        "name": "Lucas Boyé",
         "team": "home",
-        "minute": 37,
-        "isPenalty": false,
-        "isOwnGoal": false
-      },
-      {
-        "name": "Fermín López",
-        "team": "home",
-        "minute": 82,
+        "minute": 31,
         "isPenalty": false,
         "isOwnGoal": false
       }
     ],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "21469041",
-    "time": "20:00",
-    "startTime": "2026-08-27T23:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Internacional",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/2696.png"
-    },
-    "awayTeam": {
-      "name": "Grêmio",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/2925.png"
-    },
-    "league": {
-      "id": "15",
-      "name": "Copa do Brasil",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/14/654.png",
-      "href": "/torneos/654"
-    },
-    "goalscorers": [],
     "redCards": {
       "home": 0,
       "away": 0
