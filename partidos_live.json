@@ -1,94 +1,16 @@
 [
   {
-    "id": "4668710",
-    "time": "19:30",
-    "startTime": "2026-09-13T22:30:00+00:00",
+    "id": "4800811",
+    "time": "20:00",
+    "startTime": "2026-09-14T23:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Vancouver Whitecaps",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/292.png"
+      "name": "Bahia",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/692.png"
     },
     "awayTeam": {
-      "name": "Austin",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/254172.png"
-    },
-    "league": {
-      "id": "16",
-      "name": "Major League Soccer",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/11/779.png",
-      "href": "/torneos/779"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "4668711",
-    "time": "18:30",
-    "startTime": "2026-09-13T21:30:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Chicago Fire",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/75.png"
-    },
-    "awayTeam": {
-      "name": "New England",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/641.png"
-    },
-    "league": {
-      "id": "16",
-      "name": "Major League Soccer",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/11/779.png",
-      "href": "/torneos/779"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "4668712",
-    "time": "22:00",
-    "startTime": "2026-09-14T01:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "San Diego",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/275650.png"
-    },
-    "awayTeam": {
-      "name": "Philadelphia Union",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/275.png"
-    },
-    "league": {
-      "id": "16",
-      "name": "Major League Soccer",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/11/779.png",
-      "href": "/torneos/779"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "4800815",
-    "time": "16:00",
-    "startTime": "2026-09-13T19:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Mirassol",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/11126.png"
-    },
-    "awayTeam": {
-      "name": "Vitória",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/3440.png"
+      "name": "Remo",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/11550.png"
     },
     "league": {
       "id": "14",
@@ -104,43 +26,17 @@
     "tvBroadcasters": null
   },
   {
-    "id": "4800819",
-    "time": "17:30",
-    "startTime": "2026-09-13T20:30:00+00:00",
+    "id": "5469953",
+    "time": "19:00",
+    "startTime": "2026-09-14T22:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Flamengo",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/1024.png"
+      "name": "Banfield",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/887.png"
     },
     "awayTeam": {
-      "name": "Corinthians",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/15/303.png"
-    },
-    "league": {
-      "id": "14",
-      "name": "Brasileirao",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/8/648.png",
-      "href": "/torneos/648"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5469951",
-    "time": "14:45",
-    "startTime": "2026-09-13T17:45:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Tigre",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/9884.png?v=2025-11-14-4"
-    },
-    "awayTeam": {
-      "name": "Rosario Central",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/3365.png?v=2025-10-15-1"
+      "name": "Barracas Central",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/8228.png"
     },
     "league": {
       "id": "11",
@@ -156,17 +52,17 @@
     "tvBroadcasters": null
   },
   {
-    "id": "5469952",
-    "time": "17:00",
-    "startTime": "2026-09-13T20:00:00+00:00",
+    "id": "5469960",
+    "time": "19:00",
+    "startTime": "2026-09-14T22:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Argentinos Juniors",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/3393.png"
+      "name": "Deportivo Riestra",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/14578.png?v=2025-09-22-4"
     },
     "awayTeam": {
-      "name": "Gimnasia La Plata",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/470.png"
+      "name": "Lanús",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/9878.png"
     },
     "league": {
       "id": "11",
@@ -182,17 +78,17 @@
     "tvBroadcasters": null
   },
   {
-    "id": "5469956",
-    "time": "21:30",
-    "startTime": "2026-09-14T00:30:00+00:00",
+    "id": "5469965",
+    "time": "21:15",
+    "startTime": "2026-09-15T00:15:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Huracán",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/3/3139.png"
+      "name": "Instituto",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/9941.png?v=2025-09-22-4"
     },
     "awayTeam": {
-      "name": "Racing Club",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/3608.png"
+      "name": "Estudiantes de Río Cuarto",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/12186.png?v=2025-09-22-4"
     },
     "league": {
       "id": "11",
@@ -208,69 +104,17 @@
     "tvBroadcasters": null
   },
   {
-    "id": "5469957",
-    "time": "14:45",
-    "startTime": "2026-09-13T17:45:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Sarmiento",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/9931.png?v=2025-11-09-1"
-    },
-    "awayTeam": {
-      "name": "Belgrano",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/6829.png"
-    },
-    "league": {
-      "id": "11",
-      "name": "Liga Profesional de Fútbol",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/28/636.png?v=19022026",
-      "href": "/torneos/636"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5469963",
-    "time": "19:15",
-    "startTime": "2026-09-13T22:15:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Independiente",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/10840.png"
-    },
-    "awayTeam": {
-      "name": "San Lorenzo",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/520.png?v=2025-11-08-1"
-    },
-    "league": {
-      "id": "11",
-      "name": "Liga Profesional de Fútbol",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/28/636.png?v=19022026",
-      "href": "/torneos/636"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5470206",
+    "id": "5470213",
     "time": "15:30",
-    "startTime": "2026-09-13T18:30:00+00:00",
+    "startTime": "2026-09-14T18:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Patronato",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/6969.png"
+      "name": "Defensores de Belgrano",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/3121.png?v=2025-09-22-4"
     },
     "awayTeam": {
-      "name": "Temperley",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/10026.png?v=2025-09-22-4"
+      "name": "Deportivo Madryn",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/14244.png?v=2025-09-22-4"
     },
     "league": {
       "id": "13",
@@ -286,359 +130,21 @@
     "tvBroadcasters": null
   },
   {
-    "id": "5470209",
-    "time": "16:30",
-    "startTime": "2026-09-13T19:30:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Midland",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/10140.png?v=2025-11-06-1"
-    },
-    "awayTeam": {
-      "name": "Club Atlético Chacarita Juniors",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/10980.png?v=2025-11-25-21"
-    },
-    "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5470212",
-    "time": "18:30",
-    "startTime": "2026-09-13T21:30:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "San Martín de Tucumán",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/9912.png"
-    },
-    "awayTeam": {
-      "name": "Agropecuario Argentino",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/14387.png"
-    },
-    "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5470215",
-    "time": "15:30",
-    "startTime": "2026-09-13T18:30:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Almirante Brown",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/12710.png"
-    },
-    "awayTeam": {
-      "name": "Club Ferro Carril Oeste",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/7025.png?v=2026-04-13"
-    },
-    "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5470216",
-    "time": "16:00",
-    "startTime": "2026-09-13T19:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "CA Mitre",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/14337.png"
-    },
-    "awayTeam": {
-      "name": "Chaco For Ever",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/9936.png?v=2025-09-22-4"
-    },
-    "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5470217",
-    "time": "15:30",
-    "startTime": "2026-09-13T18:30:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Estudiantes de Buenos Aires",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/10006.png?v=2025-09-22-4"
-    },
-    "awayTeam": {
-      "name": "Acassuso",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/9866.png?v=2025-09-22-4"
-    },
-    "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5470219",
-    "time": "15:00",
-    "startTime": "2026-09-13T18:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Los Andes",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/273528.png"
-    },
-    "awayTeam": {
-      "name": "San Miguel",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/14612.png"
-    },
-    "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5470220",
-    "time": "18:00",
-    "startTime": "2026-09-13T21:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Godoy Cruz",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/10987.png"
-    },
-    "awayTeam": {
-      "name": "Club Atletico Colón",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/3930.png"
-    },
-    "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5470221",
-    "time": "16:00",
-    "startTime": "2026-09-13T19:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Racing de Córdoba",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/14401.png?v=2025-09-22-4"
-    },
-    "awayTeam": {
-      "name": "Deportivo Morón",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/14588.png?v=2025-09-22-4"
-    },
-    "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5470768",
-    "time": "15:00",
-    "startTime": "2026-09-13T18:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Argentino Quilmes",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/9978.png?v=2025-09-22-4"
-    },
-    "awayTeam": {
-      "name": "Deportivo Merlo",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/10104.png"
-    },
-    "league": {
-      "id": "19",
-      "name": "Primera B Metropolitana",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/18/1330.png?v=12082025",
-      "href": "/torneos/1330"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5484380",
-    "time": "16:00",
-    "startTime": "2026-09-13T19:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Gimnasia Jujuy",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/9177.png?v=2025-09-22-4"
-    },
-    "awayTeam": {
-      "name": "Atlético Rafaela",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/10816.png"
-    },
-    "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "5484978",
-    "time": "15:00",
-    "startTime": "2026-09-13T18:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Flandria",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/14605.png"
-    },
-    "awayTeam": {
-      "name": "Deportivo Camioneros",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/58200.png"
-    },
-    "league": {
-      "id": "19",
-      "name": "Primera B Metropolitana",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/18/1330.png?v=12082025",
-      "href": "/torneos/1330"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "17593646",
-    "time": "15:45",
-    "startTime": "2026-09-13T18:45:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Sassuolo",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/2714.png"
-    },
-    "awayTeam": {
-      "name": "Juventus",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/625.png"
-    },
-    "league": {
-      "id": "7",
-      "name": "Serie A",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/0/384.png",
-      "href": "/torneos/384"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "17593647",
-    "time": "13:00",
-    "startTime": "2026-09-13T16:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Napoli",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/597.png"
-    },
-    "awayTeam": {
-      "name": "Bologna",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/8513.png"
-    },
-    "league": {
-      "id": "7",
-      "name": "Serie A",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/0/384.png",
-      "href": "/torneos/384"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "17593648",
-    "time": "81'",
-    "startTime": "2026-09-13T13:00:00+00:00",
+    "id": "17593645",
+    "time": "10'",
+    "startTime": "2026-09-14T16:30:00+00:00",
     "status": "live",
     "homeTeam": {
-      "name": "Lecce",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/7790.png"
+      "name": "Torino",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/613.png"
     },
     "awayTeam": {
-      "name": "Monza",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/1628.png"
+      "name": "Roma",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/37.png"
     },
     "score": {
-      "home": 3,
-      "away": 1
+      "home": 0,
+      "away": 0
     },
     "league": {
       "id": "7",
@@ -646,36 +152,7 @@
       "icon": "https://cdn.sportmonks.com/images/soccer/leagues/0/384.png",
       "href": "/torneos/384"
     },
-    "goalscorers": [
-      {
-        "name": "Lassana Coulibaly",
-        "team": "home",
-        "minute": 3,
-        "isPenalty": false,
-        "isOwnGoal": false
-      },
-      {
-        "name": "Tiago Gabriel",
-        "team": "home",
-        "minute": 10,
-        "isPenalty": false,
-        "isOwnGoal": false
-      },
-      {
-        "name": "Ricardo Mangas",
-        "team": "away",
-        "minute": 20,
-        "isPenalty": false,
-        "isOwnGoal": false
-      },
-      {
-        "name": "Lassana Coulibaly",
-        "team": "home",
-        "minute": 21,
-        "isPenalty": false,
-        "isOwnGoal": false
-      }
-    ],
+    "goalscorers": [],
     "redCards": {
       "home": 0,
       "away": 0
@@ -683,27 +160,53 @@
     "tvBroadcasters": null
   },
   {
-    "id": "18013615",
-    "time": "86'",
-    "startTime": "2026-09-13T13:00:00+00:00",
+    "id": "17593650",
+    "time": "15:45",
+    "startTime": "2026-09-14T18:45:00+00:00",
+    "status": "upcoming",
+    "homeTeam": {
+      "name": "Inter",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/2930.png"
+    },
+    "awayTeam": {
+      "name": "Udinese",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/346.png"
+    },
+    "league": {
+      "id": "7",
+      "name": "Serie A",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/0/384.png",
+      "href": "/torneos/384"
+    },
+    "goalscorers": [],
+    "redCards": {
+      "home": 0,
+      "away": 0
+    },
+    "tvBroadcasters": null
+  },
+  {
+    "id": "17593652",
+    "time": "10'",
+    "startTime": "2026-09-14T16:30:00+00:00",
     "status": "live",
     "homeTeam": {
-      "name": "LOSC Lille",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/690.png"
+      "name": "Como",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/268.png"
     },
     "awayTeam": {
-      "name": "Troyes",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/7/7047.png"
+      "name": "Parma",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/398.png"
     },
     "score": {
-      "home": 1,
+      "home": 0,
       "away": 0
     },
     "league": {
-      "id": "6",
-      "name": "Ligue 1",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/13/301.png",
-      "href": "/torneos/301"
+      "id": "7",
+      "name": "Serie A",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/0/384.png",
+      "href": "/torneos/384"
     },
     "goalscorers": [],
     "redCards": {
@@ -713,69 +216,17 @@
     "tvBroadcasters": null
   },
   {
-    "id": "18013616",
-    "time": "12:15",
-    "startTime": "2026-09-13T15:15:00+00:00",
+    "id": "18066050",
+    "time": "16:00",
+    "startTime": "2026-09-14T19:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Le Mans",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/7758.png"
+      "name": "Leeds United",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/7/71.png"
     },
     "awayTeam": {
-      "name": "Lens",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/15/271.png"
-    },
-    "league": {
-      "id": "6",
-      "name": "Ligue 1",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/13/301.png",
-      "href": "/torneos/301"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "18013618",
-    "time": "15:45",
-    "startTime": "2026-09-13T18:45:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Brest",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/266.png"
-    },
-    "awayTeam": {
-      "name": "Paris Saint Germain",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/15/591.png"
-    },
-    "league": {
-      "id": "6",
-      "name": "Ligue 1",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/13/301.png",
-      "href": "/torneos/301"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "18066048",
-    "time": "12:30",
-    "startTime": "2026-09-13T15:30:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Manchester United",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png"
-    },
-    "awayTeam": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/9.png"
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/20.png"
     },
     "league": {
       "id": "3",
@@ -791,76 +242,17 @@
     "tvBroadcasters": null
   },
   {
-    "id": "18066052",
-    "time": "88'",
-    "startTime": "2026-09-13T13:00:00+00:00",
-    "status": "live",
-    "homeTeam": {
-      "name": "Coventry City",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/117.png"
-    },
-    "awayTeam": {
-      "name": "Brighton & Hove Albion",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/78.png"
-    },
-    "score": {
-      "home": 0,
-      "away": 4
-    },
-    "league": {
-      "id": "3",
-      "name": "Premier League",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/8/8.png",
-      "href": "/torneos/8"
-    },
-    "goalscorers": [
-      {
-        "name": "Charalampos Kostoulas",
-        "team": "away",
-        "minute": 35,
-        "isPenalty": false,
-        "isOwnGoal": false
-      },
-      {
-        "name": "Malick Yalcouyé",
-        "team": "away",
-        "minute": 51,
-        "isPenalty": false,
-        "isOwnGoal": false
-      },
-      {
-        "name": "Pascal Groß",
-        "team": "away",
-        "minute": 70,
-        "isPenalty": true,
-        "isOwnGoal": false
-      },
-      {
-        "name": "Lewis Dunk ",
-        "team": "away",
-        "minute": 83,
-        "isPenalty": false,
-        "isOwnGoal": false
-      }
-    ],
-    "redCards": {
-      "home": 1,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "18610106",
+    "id": "18610104",
     "time": "16:00",
-    "startTime": "2026-09-13T19:00:00+00:00",
+    "startTime": "2026-09-14T19:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Real Sociedad",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/594.png"
+      "name": "Villarreal",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/3477.png"
     },
     "awayTeam": {
-      "name": "Atlético de Madrid",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/7980.png"
+      "name": "Real Betis",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/485.png"
     },
     "league": {
       "id": "9",
@@ -869,148 +261,6 @@
       "href": "/torneos/564"
     },
     "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "18610110",
-    "time": "28'",
-    "startTime": "2026-09-13T14:15:00+00:00",
-    "status": "live",
-    "homeTeam": {
-      "name": "Levante",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/3457.png"
-    },
-    "awayTeam": {
-      "name": "FC Barcelona",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/83.png"
-    },
-    "score": {
-      "home": 0,
-      "away": 2
-    },
-    "league": {
-      "id": "9",
-      "name": "La Liga",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/20/564.png",
-      "href": "/torneos/564"
-    },
-    "goalscorers": [
-      {
-        "name": "Xavi Espart",
-        "team": "away",
-        "minute": 5,
-        "isPenalty": false,
-        "isOwnGoal": false
-      },
-      {
-        "name": "Lamine Yamal",
-        "team": "away",
-        "minute": 19,
-        "isPenalty": false,
-        "isOwnGoal": false
-      }
-    ],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "18610111",
-    "time": "13:30",
-    "startTime": "2026-09-13T16:30:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Getafe",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/106.png"
-    },
-    "awayTeam": {
-      "name": "Deportivo A Coruña",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/429.png"
-    },
-    "league": {
-      "id": "9",
-      "name": "La Liga",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/20/564.png",
-      "href": "/torneos/564"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "18910094",
-    "time": "12:30",
-    "startTime": "2026-09-13T15:30:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Elversberg",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/3588.png"
-    },
-    "awayTeam": {
-      "name": "FC Bayern München",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/503.png"
-    },
-    "league": {
-      "id": "5",
-      "name": "Bundesliga",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/18/82.png",
-      "href": "/torneos/82"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "18910101",
-    "time": "56'",
-    "startTime": "2026-09-13T13:30:00+00:00",
-    "status": "live",
-    "homeTeam": {
-      "name": "RB Leipzig",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/277.png"
-    },
-    "awayTeam": {
-      "name": "Hamburger SV",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/2708.png"
-    },
-    "score": {
-      "home": 2,
-      "away": 0
-    },
-    "league": {
-      "id": "5",
-      "name": "Bundesliga",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/18/82.png",
-      "href": "/torneos/82"
-    },
-    "goalscorers": [
-      {
-        "name": "Tidiam Gomis",
-        "team": "home",
-        "minute": 17,
-        "isPenalty": false,
-        "isOwnGoal": false
-      },
-      {
-        "name": "Antonio Nusa",
-        "team": "home",
-        "minute": 28,
-        "isPenalty": false,
-        "isOwnGoal": false
-      }
-    ],
     "redCards": {
       "home": 0,
       "away": 0
