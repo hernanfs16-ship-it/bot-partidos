@@ -1,124 +1,16 @@
 [
   {
-    "id": "25852817",
-    "time": "23'",
-    "startTime": "2026-11-10T18:00:00+00:00",
+    "id": "25852812",
+    "time": "51'",
+    "startTime": "2026-11-12T17:30:00+00:00",
     "status": "live",
     "homeTeam": {
-      "name": "Anaitasuna FT",
-      "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png"
+      "name": "Calvo Sotelo",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/29/228989.png"
     },
     "awayTeam": {
-      "name": "Deportivo Alavés",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/2975.png"
-    },
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "league": {
-      "id": "10",
-      "name": "Copa Del Rey",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/570.png",
-      "href": "/torneos/570"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "25852823",
-    "time": "16:00",
-    "startTime": "2026-11-10T19:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "SD Amorebieta",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/7/2055.png"
-    },
-    "awayTeam": {
-      "name": "UD Logroñés",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/336.png"
-    },
-    "league": {
-      "id": "10",
-      "name": "Copa Del Rey",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/570.png",
-      "href": "/torneos/570"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "25852828",
-    "time": "16:00",
-    "startTime": "2026-11-10T19:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Mijas Las Lagunas",
-      "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png"
-    },
-    "awayTeam": {
-      "name": "Real Jaén",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/13280.png"
-    },
-    "league": {
-      "id": "10",
-      "name": "Copa Del Rey",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/570.png",
-      "href": "/torneos/570"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "25852843",
-    "time": "17:00",
-    "startTime": "2026-11-10T20:00:00+00:00",
-    "status": "upcoming",
-    "homeTeam": {
-      "name": "Tavernes",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/265761.png"
-    },
-    "awayTeam": {
-      "name": "Valencia",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/214.png"
-    },
-    "league": {
-      "id": "10",
-      "name": "Copa Del Rey",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/570.png",
-      "href": "/torneos/570"
-    },
-    "goalscorers": [],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "26378560",
-    "time": "24'",
-    "startTime": "2026-11-10T18:00:00+00:00",
-    "status": "live",
-    "homeTeam": {
-      "name": "Pamplona",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/28261.png"
-    },
-    "awayTeam": {
-      "name": "SD Eibar",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/60.png"
+      "name": "Albacete",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/3169.png"
     },
     "score": {
       "home": 0,
@@ -132,16 +24,16 @@
     },
     "goalscorers": [
       {
-        "name": "Javi Martón",
+        "name": "Rober González",
         "team": "away",
-        "minute": 2,
+        "minute": 16,
         "isPenalty": false,
         "isOwnGoal": false
       },
       {
-        "name": "Jon Magunazelaia",
+        "name": "Mario Soberón",
         "team": "away",
-        "minute": 22,
+        "minute": 19,
         "isPenalty": false,
         "isOwnGoal": false
       }
@@ -153,17 +45,59 @@
     "tvBroadcasters": null
   },
   {
-    "id": "26378583",
-    "time": "16:00",
-    "startTime": "2026-11-10T19:00:00+00:00",
-    "status": "upcoming",
+    "id": "25852831",
+    "time": "36'",
+    "startTime": "2026-11-12T18:00:00+00:00",
+    "status": "live",
     "homeTeam": {
-      "name": "Trival Valderas",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/25893.png"
+      "name": "Navalcarnero",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/13433.png"
     },
     "awayTeam": {
-      "name": "Leganés",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/844.png"
+      "name": "Real Betis",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/485.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "league": {
+      "id": "10",
+      "name": "Copa Del Rey",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/570.png",
+      "href": "/torneos/570"
+    },
+    "goalscorers": [
+      {
+        "name": "Rodrigo Riquelme",
+        "team": "away",
+        "minute": 5,
+        "isPenalty": false,
+        "isOwnGoal": false
+      }
+    ],
+    "redCards": {
+      "home": 0,
+      "away": 0
+    },
+    "tvBroadcasters": null
+  },
+  {
+    "id": "26378576",
+    "time": "39'",
+    "startTime": "2026-11-12T18:00:00+00:00",
+    "status": "live",
+    "homeTeam": {
+      "name": "Tarancón",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/228992.png"
+    },
+    "awayTeam": {
+      "name": "Levante",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/3457.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
     },
     "league": {
       "id": "10",
