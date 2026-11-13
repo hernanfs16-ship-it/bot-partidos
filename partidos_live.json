@@ -1,43 +1,24 @@
 [
   {
-    "id": "25852812",
-    "time": "51'",
-    "startTime": "2026-11-12T17:30:00+00:00",
-    "status": "live",
+    "id": "24363326",
+    "time": "21:00",
+    "startTime": "2026-11-14T00:00:00+00:00",
+    "status": "upcoming",
     "homeTeam": {
-      "name": "Calvo Sotelo",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/29/228989.png"
+      "name": "Colombia",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/18720.png"
     },
     "awayTeam": {
-      "name": "Albacete",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/3169.png"
-    },
-    "score": {
-      "home": 0,
-      "away": 2
+      "name": "Chile",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/18774.png"
     },
     "league": {
-      "id": "10",
-      "name": "Copa Del Rey",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/570.png",
-      "href": "/torneos/570"
+      "id": "402",
+      "name": "Amistoso Internacional",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/1082.png",
+      "href": "/torneos/1082"
     },
-    "goalscorers": [
-      {
-        "name": "Rober González",
-        "team": "away",
-        "minute": 16,
-        "isPenalty": false,
-        "isOwnGoal": false
-      },
-      {
-        "name": "Mario Soberón",
-        "team": "away",
-        "minute": 19,
-        "isPenalty": false,
-        "isOwnGoal": false
-      }
-    ],
+    "goalscorers": [],
     "redCards": {
       "home": 0,
       "away": 0
@@ -45,21 +26,17 @@
     "tvBroadcasters": null
   },
   {
-    "id": "25852831",
-    "time": "36'",
-    "startTime": "2026-11-12T18:00:00+00:00",
-    "status": "live",
+    "id": "25852804",
+    "time": "17:00",
+    "startTime": "2026-11-13T20:00:00+00:00",
+    "status": "upcoming",
     "homeTeam": {
-      "name": "Navalcarnero",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/13433.png"
+      "name": "Salamanca CF UDS",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/29606.png"
     },
     "awayTeam": {
-      "name": "Real Betis",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/485.png"
-    },
-    "score": {
-      "home": 0,
-      "away": 1
+      "name": "Celta de Vigo",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/36.png"
     },
     "league": {
       "id": "10",
@@ -67,15 +44,7 @@
       "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/570.png",
       "href": "/torneos/570"
     },
-    "goalscorers": [
-      {
-        "name": "Rodrigo Riquelme",
-        "team": "away",
-        "minute": 5,
-        "isPenalty": false,
-        "isOwnGoal": false
-      }
-    ],
+    "goalscorers": [],
     "redCards": {
       "home": 0,
       "away": 0
@@ -83,27 +52,49 @@
     "tvBroadcasters": null
   },
   {
-    "id": "26378576",
-    "time": "39'",
-    "startTime": "2026-11-12T18:00:00+00:00",
-    "status": "live",
+    "id": "26924660",
+    "time": "20:00",
+    "startTime": "2026-11-13T23:00:00+00:00",
+    "status": "upcoming",
     "homeTeam": {
-      "name": "Tarancón",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/228992.png"
+      "name": "Argentina",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/18644.png"
     },
     "awayTeam": {
-      "name": "Levante",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/3457.png"
+      "name": "Uruguay",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/15251.png"
     },
-    "score": {
+    "league": {
+      "id": "402",
+      "name": "Amistoso Internacional",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/1082.png",
+      "href": "/torneos/1082"
+    },
+    "goalscorers": [],
+    "redCards": {
       "home": 0,
       "away": 0
     },
+    "tvBroadcasters": null
+  },
+  {
+    "id": "26924661",
+    "time": "21:00",
+    "startTime": "2026-11-14T00:00:00+00:00",
+    "status": "upcoming",
+    "homeTeam": {
+      "name": "Ecuador",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/18573.png"
+    },
+    "awayTeam": {
+      "name": "Costa Rica",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/18598.png"
+    },
     "league": {
-      "id": "10",
-      "name": "Copa Del Rey",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/570.png",
-      "href": "/torneos/570"
+      "id": "402",
+      "name": "Amistoso Internacional",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/1082.png",
+      "href": "/torneos/1082"
     },
     "goalscorers": [],
     "redCards": {
