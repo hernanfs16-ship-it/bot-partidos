@@ -1,22 +1,22 @@
 [
   {
-    "id": "28118223",
-    "time": "15:00",
-    "startTime": "2026-11-15T18:00:00+00:00",
+    "id": "24363327",
+    "time": "20:00",
+    "startTime": "2026-11-17T23:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Deportivo Morón",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/14588.png?v=2025-09-22-4"
+      "name": "Chile",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/18774.png"
     },
     "awayTeam": {
-      "name": "Colegiales",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/12210.png"
+      "name": "Colombia",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/18720.png"
     },
     "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
+      "id": "402",
+      "name": "Amistoso Internacional",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/1082.png",
+      "href": "/torneos/1082"
     },
     "goalscorers": [],
     "redCards": {
@@ -26,23 +26,23 @@
     "tvBroadcasters": null
   },
   {
-    "id": "28118225",
+    "id": "26924662",
     "time": "20:30",
-    "startTime": "2026-11-15T23:30:00+00:00",
+    "startTime": "2026-11-17T23:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Club Ferro Carril Oeste",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/7025.png?v=2026-04-13"
+      "name": "Ecuador",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/18573.png"
     },
     "awayTeam": {
-      "name": "Gimnasia y Tiro de Salta",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/8378.png?v=2025-10-01-3"
+      "name": "Bolivia",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/18825.png"
     },
     "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
+      "id": "402",
+      "name": "Amistoso Internacional",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/1082.png",
+      "href": "/torneos/1082"
     },
     "goalscorers": [],
     "redCards": {
@@ -52,23 +52,49 @@
     "tvBroadcasters": null
   },
   {
-    "id": "28118226",
-    "time": "17:00",
-    "startTime": "2026-11-15T20:00:00+00:00",
+    "id": "26924663",
+    "time": "20:00",
+    "startTime": "2026-11-17T23:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Godoy Cruz",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/10987.png"
+      "name": "Argentina",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/18644.png"
     },
     "awayTeam": {
-      "name": "Tristán Suárez",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/14579.png"
+      "name": "Costa Rica",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/18598.png"
     },
     "league": {
-      "id": "13",
-      "name": "Primera B Nacional",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/5/645.png?v=12082025",
-      "href": "/torneos/645"
+      "id": "402",
+      "name": "Amistoso Internacional",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/1082.png",
+      "href": "/torneos/1082"
+    },
+    "goalscorers": [],
+    "redCards": {
+      "home": 0,
+      "away": 0
+    },
+    "tvBroadcasters": null
+  },
+  {
+    "id": "28478166",
+    "time": "20:30",
+    "startTime": "2026-11-17T23:30:00+00:00",
+    "status": "upcoming",
+    "homeTeam": {
+      "name": "Uruguay",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/15251.png"
+    },
+    "awayTeam": {
+      "name": "República Dominicana",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/18921.png"
+    },
+    "league": {
+      "id": "402",
+      "name": "Amistoso Internacional",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/26/1082.png",
+      "href": "/torneos/1082"
     },
     "goalscorers": [],
     "redCards": {
