@@ -1,22 +1,22 @@
 [
   {
-    "id": "4800739",
-    "time": "19:30",
-    "startTime": "2026-11-19T22:30:00+00:00",
+    "id": "18013548",
+    "time": "16:45",
+    "startTime": "2026-11-20T19:45:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Vitória",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/3440.png"
+      "name": "Troyes",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/7/7047.png"
     },
     "awayTeam": {
-      "name": "Bragantino",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/7808.png"
+      "name": "Le Havre",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/1055.png"
     },
     "league": {
-      "id": "14",
-      "name": "Brasileirao",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/8/648.png",
-      "href": "/torneos/648"
+      "id": "6",
+      "name": "Ligue 1",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/13/301.png",
+      "href": "/torneos/301"
     },
     "goalscorers": [],
     "redCards": {
@@ -26,23 +26,23 @@
     "tvBroadcasters": null
   },
   {
-    "id": "4800745",
-    "time": "21:30",
-    "startTime": "2026-11-20T00:30:00+00:00",
+    "id": "18610032",
+    "time": "17:00",
+    "startTime": "2026-11-20T20:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "São Paulo",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/3496.png"
+      "name": "Athletic Club",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/13258.png"
     },
     "awayTeam": {
-      "name": "Fluminense",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/7/1095.png"
+      "name": "Espanyol",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/528.png"
     },
     "league": {
-      "id": "14",
-      "name": "Brasileirao",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/8/648.png",
-      "href": "/torneos/648"
+      "id": "9",
+      "name": "La Liga",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/20/564.png",
+      "href": "/torneos/564"
     },
     "goalscorers": [],
     "redCards": {
@@ -52,23 +52,23 @@
     "tvBroadcasters": null
   },
   {
-    "id": "4800746",
-    "time": "19:30",
-    "startTime": "2026-11-19T22:30:00+00:00",
+    "id": "18910039",
+    "time": "16:30",
+    "startTime": "2026-11-20T19:30:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Vasco da Gama",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/696.png"
+      "name": "FC Bayern München",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/503.png"
     },
     "awayTeam": {
-      "name": "Internacional",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/2696.png"
+      "name": "FC Köln",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/3320.png"
     },
     "league": {
-      "id": "14",
-      "name": "Brasileirao",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/8/648.png",
-      "href": "/torneos/648"
+      "id": "5",
+      "name": "Bundesliga",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/18/82.png",
+      "href": "/torneos/82"
     },
     "goalscorers": [],
     "redCards": {
@@ -78,23 +78,23 @@
     "tvBroadcasters": null
   },
   {
-    "id": "28645269",
-    "time": "21:30",
-    "startTime": "2026-11-20T00:30:00+00:00",
+    "id": "28711867",
+    "time": "20:00",
+    "startTime": "2026-11-20T23:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Orlando City",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/204.png"
+      "name": "Vélez Sarsfield",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/9904.png"
     },
     "awayTeam": {
-      "name": "Cincinnati",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/3636.png"
+      "name": "Belgrano",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/6829.png"
     },
     "league": {
-      "id": "16",
-      "name": "Major League Soccer",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/11/779.png",
-      "href": "/torneos/779"
+      "id": "11",
+      "name": "Liga Profesional de Fútbol",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/28/636.png?v=19022026",
+      "href": "/torneos/636"
     },
     "goalscorers": [],
     "redCards": {
