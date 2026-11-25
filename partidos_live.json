@@ -1,16 +1,16 @@
 [
   {
-    "id": "4807654",
-    "time": "18:00",
-    "startTime": "2026-11-24T21:00:00+00:00",
+    "id": "4800733",
+    "time": "20:00",
+    "startTime": "2026-11-25T23:00:00+00:00",
     "status": "upcoming",
     "homeTeam": {
-      "name": "Chapecoense",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/710.png"
+      "name": "Atlético Mineiro",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/3/3427.png"
     },
     "awayTeam": {
-      "name": "Palmeiras",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/3422.png"
+      "name": "Corinthians",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/15/303.png"
     },
     "league": {
       "id": "14",
@@ -26,55 +26,17 @@
     "tvBroadcasters": null
   },
   {
-    "id": "22754036",
-    "time": "ET",
-    "startTime": "2026-11-24T20:00:00+00:00",
+    "id": "22754058",
+    "time": "20'",
+    "startTime": "2026-11-25T20:00:00+00:00",
     "status": "live",
     "homeTeam": {
-      "name": "Real Madrid",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/3468.png"
+      "name": "Sporting CP",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/58.png"
     },
     "awayTeam": {
-      "name": "PSV",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/682.png"
-    },
-    "score": {
-      "home": 0,
-      "away": 1
-    },
-    "league": {
-      "id": "1",
-      "name": "Champions League",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/2.png",
-      "href": "/torneos/2"
-    },
-    "goalscorers": [
-      {
-        "name": "Ivan Perisic",
-        "team": "away",
-        "minute": 32,
-        "isPenalty": true,
-        "isOwnGoal": false
-      }
-    ],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "22754052",
-    "time": "ET",
-    "startTime": "2026-11-24T20:00:00+00:00",
-    "status": "live",
-    "homeTeam": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/9.png"
-    },
-    "awayTeam": {
-      "name": "Napoli",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/597.png"
+      "name": "Manchester United",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png"
     },
     "score": {
       "home": 0,
@@ -94,17 +56,131 @@
     "tvBroadcasters": null
   },
   {
-    "id": "22754053",
-    "time": "ET",
-    "startTime": "2026-11-24T20:00:00+00:00",
+    "id": "22754070",
+    "time": "18'",
+    "startTime": "2026-11-25T20:00:00+00:00",
     "status": "live",
     "homeTeam": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/19.png"
+      "name": "Club Brugge",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/340.png"
     },
     "awayTeam": {
-      "name": "Borussia Dortmund",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/68.png"
+      "name": "Liverpool",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/8.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "league": {
+      "id": "1",
+      "name": "Champions League",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/2.png",
+      "href": "/torneos/2"
+    },
+    "goalscorers": [
+      {
+        "name": "Alexander Isak",
+        "team": "away",
+        "minute": 13,
+        "isPenalty": false,
+        "isOwnGoal": false
+      }
+    ],
+    "redCards": {
+      "home": 0,
+      "away": 0
+    },
+    "tvBroadcasters": null
+  },
+  {
+    "id": "22754071",
+    "time": "18'",
+    "startTime": "2026-11-25T20:00:00+00:00",
+    "status": "live",
+    "homeTeam": {
+      "name": "Paris Saint Germain",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/15/591.png"
+    },
+    "awayTeam": {
+      "name": "Roma",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/37.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "league": {
+      "id": "1",
+      "name": "Champions League",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/2.png",
+      "href": "/torneos/2"
+    },
+    "goalscorers": [
+      {
+        "name": "Mario Hermoso",
+        "team": "away",
+        "minute": 5,
+        "isPenalty": false,
+        "isOwnGoal": false
+      }
+    ],
+    "redCards": {
+      "home": 0,
+      "away": 0
+    },
+    "tvBroadcasters": null
+  },
+  {
+    "id": "22754085",
+    "time": "19'",
+    "startTime": "2026-11-25T20:00:00+00:00",
+    "status": "live",
+    "homeTeam": {
+      "name": "LOSC Lille",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/690.png"
+    },
+    "awayTeam": {
+      "name": "FC Bayern München",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/503.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "league": {
+      "id": "1",
+      "name": "Champions League",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/2.png",
+      "href": "/torneos/2"
+    },
+    "goalscorers": [
+      {
+        "name": "Dayot Upamecano",
+        "team": "away",
+        "minute": 15,
+        "isPenalty": false,
+        "isOwnGoal": false
+      }
+    ],
+    "redCards": {
+      "home": 0,
+      "away": 0
+    },
+    "tvBroadcasters": null
+  },
+  {
+    "id": "22810653",
+    "time": "19'",
+    "startTime": "2026-11-25T20:00:00+00:00",
+    "status": "live",
+    "homeTeam": {
+      "name": "Atlético de Madrid",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/7980.png"
+    },
+    "awayTeam": {
+      "name": "Viking",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/321.png"
     },
     "score": {
       "home": 1,
@@ -116,15 +192,7 @@
       "icon": "https://cdn.sportmonks.com/images/soccer/leagues/2.png",
       "href": "/torneos/2"
     },
-    "goalscorers": [
-      {
-        "name": "Viktor Gyökeres",
-        "team": "home",
-        "minute": 10,
-        "isPenalty": false,
-        "isOwnGoal": false
-      }
-    ],
+    "goalscorers": [],
     "redCards": {
       "home": 0,
       "away": 0
@@ -132,55 +200,17 @@
     "tvBroadcasters": null
   },
   {
-    "id": "23035925",
-    "time": "ET",
-    "startTime": "2026-11-24T20:00:00+00:00",
+    "id": "22810656",
+    "time": "19'",
+    "startTime": "2026-11-25T20:00:00+00:00",
     "status": "live",
     "homeTeam": {
-      "name": "Feyenoord",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/73.png"
+      "name": "Inter",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/2930.png"
     },
     "awayTeam": {
-      "name": "Porto",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/652.png"
-    },
-    "score": {
-      "home": 0,
-      "away": 1
-    },
-    "league": {
-      "id": "1",
-      "name": "Champions League",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/2.png",
-      "href": "/torneos/2"
-    },
-    "goalscorers": [
-      {
-        "name": "Oussama Targhalline",
-        "team": "away",
-        "minute": 2,
-        "isPenalty": false,
-        "isOwnGoal": true
-      }
-    ],
-    "redCards": {
-      "home": 0,
-      "away": 0
-    },
-    "tvBroadcasters": null
-  },
-  {
-    "id": "23035926",
-    "time": "ET",
-    "startTime": "2026-11-24T20:00:00+00:00",
-    "status": "live",
-    "homeTeam": {
-      "name": "Como",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/268.png"
-    },
-    "awayTeam": {
-      "name": "AEK Athens",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/781.png"
+      "name": "VfB Stuttgart",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/3319.png"
     },
     "score": {
       "home": 0,
@@ -200,17 +230,17 @@
     "tvBroadcasters": null
   },
   {
-    "id": "23035927",
-    "time": "ET",
-    "startTime": "2026-11-24T20:00:00+00:00",
+    "id": "23035930",
+    "time": "18'",
+    "startTime": "2026-11-25T20:00:00+00:00",
     "status": "live",
     "homeTeam": {
-      "name": "Slovan Bratislava",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/2417.png"
+      "name": "Shakhtar Donetsk",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/621.png"
     },
     "awayTeam": {
-      "name": "Real Betis",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/485.png"
+      "name": "Fenerbahçe",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/88.png"
     },
     "score": {
       "home": 0,
@@ -224,9 +254,9 @@
     },
     "goalscorers": [
       {
-        "name": "Cucho Hernández",
+        "name": "Vedat Muriqi",
         "team": "away",
-        "minute": 43,
+        "minute": 17,
         "isPenalty": false,
         "isOwnGoal": false
       }
@@ -238,44 +268,25 @@
     "tvBroadcasters": null
   },
   {
-    "id": "23035928",
-    "time": "ET",
-    "startTime": "2026-11-24T20:00:00+00:00",
-    "status": "live",
+    "id": "28711864",
+    "time": "21:00",
+    "startTime": "2026-11-26T00:00:00+00:00",
+    "status": "upcoming",
     "homeTeam": {
-      "name": "RB Leipzig",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/277.png"
+      "name": "Boca Juniors",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/587.png"
     },
     "awayTeam": {
-      "name": "Lens",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/15/271.png"
-    },
-    "score": {
-      "home": 2,
-      "away": 0
+      "name": "Independiente Rivadavia",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/812.png"
     },
     "league": {
-      "id": "1",
-      "name": "Champions League",
-      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/2.png",
-      "href": "/torneos/2"
+      "id": "11",
+      "name": "Liga Profesional de Fútbol",
+      "icon": "https://cdn.sportmonks.com/images/soccer/leagues/28/636.png?v=19022026",
+      "href": "/torneos/636"
     },
-    "goalscorers": [
-      {
-        "name": "David Raum",
-        "team": "home",
-        "minute": 6,
-        "isPenalty": false,
-        "isOwnGoal": false
-      },
-      {
-        "name": "Antonio Nusa",
-        "team": "home",
-        "minute": 9,
-        "isPenalty": false,
-        "isOwnGoal": false
-      }
-    ],
+    "goalscorers": [],
     "redCards": {
       "home": 0,
       "away": 0
